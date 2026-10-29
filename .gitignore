@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+ 
+# Python cache files
+__pycache__/
+*.pyc
+ 
+# Saved models (checkpoints)
+checkpoints/
+*.pt
+ 
+# Editor settings
+.vscode/
+ 
